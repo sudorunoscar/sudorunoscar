@@ -6,3 +6,5 @@ very quality<br>
 
 <br><br>
 no thoughts, head empty
+<br><br>
+<img src="https://raw.githubusercontent.com/sudorunoscar/sudorunoscar/main/blahaj-spin.gif" height="100" width="100">
