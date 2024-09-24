@@ -1,5 +1,6 @@
-Hi, I’m Oscar! 
-<br>
-I'm not interested in greenhouse gasses
-<br>
-Blahaj is love, blahaj is life.
+wow readme
+such markdowm
+very quality
+
+[get a goober](www.ikea.com/us/en/p/blahaj-soft-toy-baby-shark-70540665)
+[thoughts]()
